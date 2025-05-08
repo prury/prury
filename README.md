@@ -10,7 +10,6 @@
 🔍 Quality Assurance professional passionate about automating everything that can be tested.  
 🧪 Experienced in E2E testing, API testing, and CI/CD pipelines.  
 🛠️ Always exploring new tools and frameworks to make testing smarter and faster.
-✈️ From Brazil and now living in Germany
 
 ---
 
